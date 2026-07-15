@@ -1,7 +1,8 @@
-#You are given an array of n integers, and your task is to sort this array in non-decreasing order using the Merge Sort algorithm, which is based on the Divide and Conquer strategy.
+#You are given an array of n integers, and your task is to sort this array in non-decreasing order 
+using the Merge Sort algorithm, which is based on the Divide and Conquer strategy.
 #include <stdio.h>
 
-    // Merge the temporary arrays back into arr[l..r]
+   
     i = 0; // Initial index of first subarray
     j = 0; // Initial index of second subarray
     k = l; // Initial index of merged subarray
